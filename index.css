@@ -1,0 +1,107 @@
+body {
+	background: url("src/img/background1.jpg");
+	background-color: white;
+	color: black;
+	font-size: +10;
+	margin: 0 0 0 0 ;
+}
+
+header{
+	width: 100%;
+}
+
+.home{
+	background-color: transparent;
+}
+
+.about{
+	background-color: white;
+}
+
+.cotact{
+	background-color: white;
+}
+
+.goals{
+	background-color: white;
+}
+
+.nothome{
+	width: 100%;
+	background-color: white;
+	font-size: 200%;
+}
+.other{
+	border: none;
+	width: 22.2%;
+	background-color: black;
+	padding: 0 0 0 0 ;
+}
+.other:hover{
+	background-color: none;
+}
+.otherlink:hover{
+	background-color: black;
+}
+
+footer{
+	color: white;
+	background-color: black;
+	width: 100%;
+}
+.navigation{
+	position: fixed;
+  	top: 0;
+  	width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a{
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  align-self: right;
+}
+
+
+li a:hover{
+  background-color: rgb(55,142,250);
+}
+
+a {
+  color: black;
+  background-color: white
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: right;
+  margin: 0 0 0 0 ;
+
+}
+
+a:hover {
+	background-color: rgb(55,142,250);
+}
+
+img{
+	height: 50px;
+	width: 50px;
+	background-color: white;
+	margin: 0 0 0 0 ;
+}
+p,h1{
+	text-align: center;
+}
